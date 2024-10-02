@@ -1,0 +1,22 @@
+SPDX-License-Identifier: MIT
+pragma solidity ^0.8.26
+
+contract enum
+//enum representing cooking activities 
+enum hey [{
+pending,
+cooked,
+accepted,
+rejected,
+cancelled,
+}
+status public status
+//returns uint
+// pending 1
+//cooked 2
+//accepted 3
+//rejected 4
+ //cancelled 5
+ function get() public view returns (status) {
+    return status;
+ }
