@@ -1,0 +1,9 @@
+SPDX-License-Identifier: MIT
+pragma solidity ^0.8.26;
+
+contract mapping 
+
+ mapping(uint =string>) public course name
+function set value (course id,string memory course name ) public
+course details [course id ]=course name
+
