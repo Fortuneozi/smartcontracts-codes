@@ -1,0 +1,15 @@
+SPDX-License-Identifier: MIT
+pragma solidity ^0.8.26;
+//
+//SOLIDITY -FOR LOOP
+contract forloop 
+
+//synthax
+//for (initialization; testcondition;iteration statement){}
+//statement of code to be executed if the condition if fufill
+
+unit256[] data;
+
+function loop()public returns (uint256) {
+    for uinti=0 i=5;1<10;i++
+}
